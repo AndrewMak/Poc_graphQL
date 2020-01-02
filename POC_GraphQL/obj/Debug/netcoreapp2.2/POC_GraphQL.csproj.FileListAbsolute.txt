@@ -1,0 +1,16 @@
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\obj\Debug\netcoreapp2.2\POC_GraphQL.AssemblyInfoInputs.cache
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\obj\Debug\netcoreapp2.2\POC_GraphQL.AssemblyInfo.cs
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\bin\Debug\netcoreapp2.2\POC_GraphQL.deps.json
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\bin\Debug\netcoreapp2.2\POC_GraphQL.runtimeconfig.json
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\bin\Debug\netcoreapp2.2\POC_GraphQL.runtimeconfig.dev.json
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\bin\Debug\netcoreapp2.2\POC_GraphQL.dll
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\obj\Debug\netcoreapp2.2\POC_GraphQL.csprojAssemblyReference.cache
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\obj\Debug\netcoreapp2.2\POC_GraphQL.RazorAssemblyInfo.cache
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\obj\Debug\netcoreapp2.2\POC_GraphQL.RazorAssemblyInfo.cs
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\obj\Debug\netcoreapp2.2\POC_GraphQL.RazorTargetAssemblyInfo.cache
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\bin\Debug\netcoreapp2.2\POC_GraphQL.pdb
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\obj\Debug\netcoreapp2.2\POC_GraphQL.dll
+C:\Users\andrew.mak\source\repos\POC_GraphQL\POC_GraphQL\obj\Debug\netcoreapp2.2\POC_GraphQL.pdb
